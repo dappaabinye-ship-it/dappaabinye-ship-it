@@ -37,6 +37,5 @@ I'm open to
 
 ## How to reach me
 
-you can reach me via 
 - Email: dappaabinye@gmail.com
 - linkedin: https://www.linkedin.com/in/abinyedappa?utm_source=share_via&utm_content=profile&utm_medium=member_android
