@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Abinye Dappa
 
-<!--
-**dappaabinye-ship-it/dappaabinye-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a medical student with a passion and a love for coding and for building impactful digital solutions.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm currently working on
+
+I'm currently developing my skills in web development by partaking in The odin project's comprehensive full stack web development curriculum.
+
+
+## Languages
+
+- HTML
+- CSS
+
+
+## Toolbox
+
+- Git
+- Github
+- Linux
+
+
+## Current focus
+
+- CSS FLEXBOX
+- Javascript (subsequently)
+
+
+## Open to
+
+I'm open to 
+- collaborations
+- internships
+- junior developer opportunities
+
+
+## How to reach me
+
+you can reach me via 
+- Email: dappaabinye@gmail.com
+- linkedin: https://www.linkedin.com/in/abinyedappa?utm_source=share_via&utm_content=profile&utm_medium=member_android
